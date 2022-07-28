@@ -1,8 +1,12 @@
 # todo_app
 
-A new Flutter project.
+Task 2 in Algoriza Flutter Intern.
 
 ## Getting Started
+
+<img src="add.png" width="250" height="550"> | <img src="b.png" width="250" height="550"> | <img src="sc.png" width="250" height="550">
+<img src="add2.png" width="250" height="550"> | <img src="b2.png" width="250" height="550"> | <img src="sc2.png" width="250" height="550">
+
 
 This project is a starting point for a Flutter application.
 
